@@ -1,1 +1,17 @@
-gsdgsdgdsgdsgdsgdsgds
+Este é o exemplo de um ficheiro de texto file3
+
+<h2>Bebidas</h2>
+
+<ul>
+    <li>Coffee</li>
+    <li>Tea</li>
+    <li>Milk</li>
+</ul>
+
+<h2>Listas de Coisas</h2>
+
+<ul>
+    <li>Bolos</li>
+    <li>Tostas</li>
+    <li>Sandes</li>
+</ul>
